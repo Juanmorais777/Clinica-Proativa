@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Proativa Núcleo Terapêutico">
+  <defs>
+    <linearGradient id="pg" gradientUnits="userSpaceOnUse" x1="10" y1="10" x2="110" y2="110">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset=".55" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="url(#pg)" opacity=".10"/>
+  <path d="M60 104V62" stroke="url(#pg)" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M60 82C46 78 38 68 37 56" stroke="url(#pg)" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M60 74c14-4 22-14 23-26" stroke="url(#pg)" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M60 62C40 56 29 42 33 27 37 12 55 7 66 15c15-6 30 6 27 22-3 15-16 24-33 25Z" fill="url(#pg)" opacity=".22"/>
+  <path d="M60 62C40 56 29 42 33 27 37 12 55 7 66 15c15-6 30 6 27 22-3 15-16 24-33 25Z" fill="none" stroke="url(#pg)" stroke-width="3.4" stroke-linejoin="round"/>
+  <path d="M52 22c6 8 6 20 0 30M74 20c-6 8-5 22 2 30" stroke="url(#pg)" stroke-width="2.4" fill="none" stroke-linecap="round" opacity=".85"/>
+  <path d="M60 98c-8-1-13-6-13-12 7-1 12 4 13 12Z" fill="url(#pg)" opacity=".55"/>
+  <path d="M60 92c8-1 13-6 13-12-7-1-12 4-13 12Z" fill="url(#pg)" opacity=".4"/>
+</svg>
